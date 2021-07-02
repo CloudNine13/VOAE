@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">VOAE</string>
+    <string name="groupsButtonText">Get groups</string>
+    <string name="resultTextGroupsButtonName">Course Description</string>
 </resources>
